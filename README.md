@@ -1,2 +1,1 @@
-# datorium
-8.klases kratuve 
+#pirmā līmeņa virsraksts
